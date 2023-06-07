@@ -27,7 +27,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="font-bold text-[55px] leading-[0.8] lg:text-[110px]"
             >
-              BEN <span>AYDEN</span>
+              JERICK <span>MALUNGCUT</span>
             </motion.h1>
             {/* Sub-heading */}
             <motion.div
