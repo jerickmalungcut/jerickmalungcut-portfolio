@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.svg";
+import Logo from "../assets/logo-jrkm.svg";
 
 const Header = () => {
   return (
@@ -7,10 +7,10 @@ const Header = () => {
         <div className="flex justify-between items-center">
           {/* logo */}
           <a href="home">
-            <img src={Logo} alt="logo" />
+            <img src={Logo} alt="logo" className="w-[100px]" />
           </a>
           {/* button */}
-          <button className="btn btn-sm">Work with me</button>
+          <button className="btn btn-sm">Download Resume</button>
         </div>
       </div>
     </header>
